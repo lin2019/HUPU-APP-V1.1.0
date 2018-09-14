@@ -1,0 +1,21 @@
+{
+    "status":0,
+    "bcImg":[
+        {
+            "id":0,
+            "src":"http://img1.gtimg.com/chinanba/pics/hv1/112/212/2290/148961422.jpg"
+        },
+        {
+            "id":1,
+            "src":"http://img1.gtimg.com/chinanba/pics/hv1/129/190/2290/148955829.jpg"
+        },
+        {
+            "id":2,
+            "src":"http://img1.gtimg.com/chinanba/pics/hv1/213/197/2290/148957698.jpg"
+        },
+        {
+            "id":3,
+            "src":"http://img1.gtimg.com/chinanba/pics/hv1/161/229/2290/148965806.jpg"
+        }
+    ]
+}
